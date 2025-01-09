@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ajay kannan" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/900/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="ajay kannan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajay kannan" target="blank"><img align="center" src="https://www.practicepanther.com/wp-content/uploads/2016/06/linkedin-for-lawyers.png" alt="ajay kannan" height="30" width="40" /></a>
 <a href="https://instagram.com/ajaykannan60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajaykannan60" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ajaykannan19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ajaykannan19" height="30" width="40" /></a>
 </p>
