@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm M AJAY KANNAN</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">Associate Software Engineer</h3>
 
 <img align="right" alt="coding" width="300" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 
